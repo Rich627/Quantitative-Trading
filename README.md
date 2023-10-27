@@ -32,4 +32,3 @@ This repository contains three projects related to quantitative trading systems.
 
 [Link to Quantitative Trading System with TF Project PDF](Multichart_hands_on.pdf)
 
-Each project has its PDF document containing detailed explanations and code examples. Click the respective links to access the project documentation.
